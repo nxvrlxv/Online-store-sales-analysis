@@ -15,7 +15,7 @@ Python: pandas, numpy, matplotlib, seaborn для обработки, анали
 - Визуализировать результаты (тренды, топ-продукты, тепловые карты).
 - Сформулировать бизнес-рекомендации.
 ## Датасет
-Источник: Online Retail Dataset.
+Источник: [Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail).
 Описание: Содержит транзакции интернет-магазина (период: 2010–2011 годы). 
 
 Колонки включают:
